@@ -118,4 +118,12 @@ Technical specification of the different components (01-2021)
 
 Service architecture and technology selection (03-2021) 
 
+
 Implementation  
+
+
+1) A1 : Work on the list of metadata and relevant contextual meta data. A table with this list will be filled by every RI by reporting on the existence of the data or metadata and collecting RI position about mandatory and non mandatory fields.
+
+2) A2 :Work on the identification criteria that can be used to find a relevant data set. A poll will be organised towards the user community to collect their opinion on the most relevant criteria.
+
+3) A3 : make doodle poll for the next meeting. Make a specific message towards eLTER and Lifewatch which are missing
